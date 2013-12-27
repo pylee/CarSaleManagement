@@ -1,2 +1,6 @@
-CarSaleManagement
+API 说明
 =================
+数据格式：json，配置文件格式：xml
+
+get_car_series()
+-----------------
